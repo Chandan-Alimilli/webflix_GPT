@@ -1,4 +1,4 @@
-# webflix
+# webflix_GPT
 
 Led the end-to-end development of an impressive Netflix clone, aptly named Webflix, utilizing cutting-edge technologies such as React, Redux, React Router, Tailwind CSS, Express, and Node. This project aimed at delivering a seamless streaming experience with a dynamic and responsive user interface, elevating the user's content consumption journey. The tech stack, comprising React for efficient component-based UI development, Redux for state management, and React Router for smooth navigation, ensured a highly interactive and engaging platform. Tailwind CSS brought a modern and polished design, enhancing the visual appeal and user experience.
 
